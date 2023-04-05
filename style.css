@@ -1,0 +1,61 @@
+/* Set default styles for the entire page */
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333333;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the main content area */
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Style the sections that contain information */
+
+section {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 10px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+/* Style the footer with a background color and links */
+
+footer {
+  background-color: #cccccc;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
